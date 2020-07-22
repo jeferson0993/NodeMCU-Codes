@@ -17,3 +17,6 @@ Some esp8266 and esp32 codes
 
 ---
 
+[Lendo e enviando dados LDR para o firebase utilizando ESP8266 NodeMCU](https://www.embarcados.com.br/envio-dados-ldr-firebase-esp8266/)
+
+[Crie seu primeiro projeto usando o módulo ESP-01 e Firebase](https://www.embarcados.com.br/esp-01-firebase/)
