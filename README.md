@@ -5,7 +5,7 @@ Some esp8266 and esp32 codes
 
 ![](https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg)
 
-
+![](https://i2.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/ESP32-DOIT-DEVKIT-V1-Board-Pinout-36-GPIOs-updated.jpg?ssl=1)
 ---
 
 [prototyping with Firebase](https://www.freecodecamp.org/news/iot-prototyping-with-firebase-doing-more-with-less-2f5c746dac8b/)
