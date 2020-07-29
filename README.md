@@ -36,3 +36,6 @@ Pinouts:
 ---
 
 [esp32-relay-module-ac-web-server](https://randomnerdtutorials.com/esp32-relay-module-ac-web-server/)
+
+[Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world](https://www.elementzonline.com/blog/Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world)
+
