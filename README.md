@@ -28,3 +28,5 @@ Pinouts:
 [Lendo e enviando dados LDR para o firebase utilizando ESP8266 NodeMCU](https://www.embarcados.com.br/envio-dados-ldr-firebase-esp8266/)
 
 [Crie seu primeiro projeto usando o módulo ESP-01 e Firebase](https://www.embarcados.com.br/esp-01-firebase/)
+
+[Casa da robotica modlo rele 4 canais](https://www.casadarobotica.com/sensores-modulos/modulos/reles/modulo-rele-wifi-4-canais-esp8266-esp01-esp8266-esp-01-wi-fi)
