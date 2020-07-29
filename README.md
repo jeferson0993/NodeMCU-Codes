@@ -30,3 +30,5 @@ Pinouts:
 [Crie seu primeiro projeto usando o módulo ESP-01 e Firebase](https://www.embarcados.com.br/esp-01-firebase/)
 
 [Casa da robotica modlo rele 4 canais](https://www.casadarobotica.com/sensores-modulos/modulos/reles/modulo-rele-wifi-4-canais-esp8266-esp01-esp8266-esp-01-wi-fi)
+
+[Casa da robotica esp32 relay module](http://www.tuxti.com.br/arquivos/arduino/modulos/rele_esp_wifi/esp32-bluetooth-relay-module.zip)
