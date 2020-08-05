@@ -39,3 +39,10 @@ Pinouts:
 
 [Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world](https://www.elementzonline.com/blog/Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world)
 
+---
+Firmwares:
+
+ *  ESPHome
+ *  SmartHome
+ *  ESPEasy
+ *  Tasmota
