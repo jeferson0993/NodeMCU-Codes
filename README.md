@@ -16,6 +16,10 @@ Pinouts:
 
 ---
 
+![Arduino-Uno-Pinout-1](https://user-images.githubusercontent.com/29678099/89638629-8233c380-d882-11ea-90f3-f2621b88c986.png)
+
+---
+
 [prototyping with Firebase](https://www.freecodecamp.org/news/iot-prototyping-with-firebase-doing-more-with-less-2f5c746dac8b/)
 
 [Professional collaborative platform for embedded development](https://platformio.org/)
