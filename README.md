@@ -46,7 +46,7 @@ Pinouts:
 ---
 Firmwares:
 
- *  ESPHome
- *  SmartHome
- *  ESPEasy
- *  Tasmota
+ *  [ESPHome](https://esphome.io/)
+ *  [SmartHome](#)
+ *  [ESPEasy](https://www.letscontrolit.com/wiki/index.php/ESPEasy)
+ *  [Tasmota](https://tasmota.github.io/docs/)
