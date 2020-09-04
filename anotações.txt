@@ -1,0 +1,13 @@
+Comando de controle do relé (Hexadecimal):
+
+Desligar o primeiro relé: A0 01 00 A1
+Ligar o primeiro relé: A0 01 01 A2
+
+Desligar o segundo relé: A0 02 00 A2
+Ligar o segundo relé: A0 02 01 A3
+
+Desligar o terceiro relé: A0 03 00 A3
+Ligar o terceiro relé: A0 03 01 A4
+
+Desligar o quarto relé: A0 04 00 A4
+Ligar o quarto relé: A0 04 01 A5
