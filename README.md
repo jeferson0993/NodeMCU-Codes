@@ -8,6 +8,10 @@ Some esp8266 and esp32 codes
 
 ---
 
+![WeMosD1Mini_pinout](https://user-images.githubusercontent.com/29678099/96594926-838d5d80-12c1-11eb-90c1-8669d981850f.png)
+
+---
+
 ![](https://components101.com/sites/default/files/component_pin/NodeMCU-ESP8266-Pinout.jpg)
 
 ---
