@@ -33,10 +33,10 @@ Some esp8266 and esp32 codes
 
 ---
 
-[Professional collaborative platform for embedded development](https://platformio.org/)
+[Platformio](https://platformio.org/)
 
 ---
-
+### Firebase projects
 [prototyping with Firebase](https://www.freecodecamp.org/news/iot-prototyping-with-firebase-doing-more-with-less-2f5c746dac8b/)
 
 [Firebase IoT Demo with ESP8266](https://github.com/kaizoku-oh/firebase-iot-demo)
@@ -48,3 +48,8 @@ Some esp8266 and esp32 codes
 ---
 
 [Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world](https://www.elementzonline.com/blog/Accessing-ESP32-CAM-Video-Streaming-from-anywhere-in-the-world)
+
+
+---
+### Infrared projects
+[Ir Remote With ESP8266-01](http://blog.2the.top/2017/08/22/Diy-Ir-Remote-With-ESP8266-01/)
